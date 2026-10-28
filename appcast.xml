@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Aither</title>
+    <link>https://github.com/xristostsilis/aither-updates</link>
+    <language>el</language>
+    <item>
+      <title>Aither 0.12.0</title>
+      <pubDate>Wed, 28 Oct 2026 22:58:15 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Aither 0.12.0</h3><ul><li>Αυτόματες ενημερώσεις: λήψη στο παρασκήνιο, εγκατάσταση σε ασφαλή στιγμή.</li><li>Ημερήσια αντίγραφα ασφαλείας στο iCloud Drive.</li><li>Ηχογράφηση σε AAC / MP3 / FLAC / Apple Lossless.</li><li>Σφάλματα με κωδικούς, μετακίνηση μέσα στο τραγούδι, badges ποιότητας.</li></ul>]]></description>
+      <enclosure url="https://github.com/xristostsilis/aither-updates/releases/download/v0.12.0/Aither-0.12.0.zip" sparkle:edSignature="0GWi9P+zDuBfRbMQnXG8KWobb3/f6wu9vQ7jLC3mtj6iIUuAV9L/JJdeQlHqmoDclhuaAYRhB+WEo4zsbcBZDA==" length="7219434" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
