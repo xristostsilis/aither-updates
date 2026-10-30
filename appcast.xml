@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.14.1</title>
+      <pubDate>Fri, 30 Oct 2026 11:04:46 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Μεγαλύτερη σταθερότητα: ένα σφάλμα σε κάποια ενέργεια δεν κλείνει την εφαρμογή</li><li>Ίδια έκδοση με το Aither για Windows</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.14.1.zip" sparkle:edSignature="jAIOZA6BWnQQLqBDbEOnS6QhrTy77HxZwGIgZQrTS++d8jl7rLfDpZWPprXNp4+Ri8o6F1xAYVjJkMD9l6DgDQ==" length="7221246" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.14.0</title>
       <pubDate>Fri, 30 Oct 2026 09:41:05 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
