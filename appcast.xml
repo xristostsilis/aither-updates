@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.15.0</title>
+      <pubDate>Fri, 30 Oct 2026 22:26:52 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Εισαγωγή playlist (Prodigy): η τελευταία ώρα του αρχείου αντικαθιστά μόνο τη δική της ώρα στο log — όχι όλη την υπόλοιπη ημέρα.</li><li>Ίδιος αριθμός έκδοσης με τα Windows (0.15.0: πλήρης βιβλιοθήκη, log, αρχείο εκπομπής και καθαρός ήχος στα Windows).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.15.0.zip" sparkle:edSignature="0ufNRXZsWCTSziZOVNOr6GPiTX5BHCtnwEntuz41uAdV2JBmhKatwz+VH2dlYShggxebBafKZg+iALtokIWGBw==" length="7221383" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.14.1</title>
       <pubDate>Fri, 30 Oct 2026 11:04:46 +0000</pubDate>
       <sparkle:version>19</sparkle:version>
