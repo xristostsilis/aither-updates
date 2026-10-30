@@ -10,7 +10,7 @@
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Μεγαλύτερη σταθερότητα: ένα σφάλμα σε κάποια ενέργεια δεν κλείνει την εφαρμογή</li><li>Ίδια έκδοση με το Aither για Windows</li></ul>]]></description>
+      <description><![CDATA[<ul><li>Ίδια έκδοση με το Aither για Windows (στα Windows: μεγαλύτερη σταθερότητα και σωστή εμφάνιση σε μικρές οθόνες)</li><li>Ενημερωμένες οδηγίες εγκατάστασης για Mac και Windows</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.14.1.zip" sparkle:edSignature="jAIOZA6BWnQQLqBDbEOnS6QhrTy77HxZwGIgZQrTS++d8jl7rLfDpZWPprXNp4+Ri8o6F1xAYVjJkMD9l6DgDQ==" length="7221246" type="application/octet-stream"/>
     </item>
     <item>
