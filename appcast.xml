@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.16.3</title>
+      <pubDate>Sat, 31 Oct 2026 18:02:13 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.16.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Παύση → συνέχεια: ό,τι είχε ακριβή ώρα μέσα στην παύση δεν κόβει πια το τραγούδι — παίζει μετά από αυτό.</li><li>AutoMix (δοκιμή): στη βιβλιοθήκη, ακρόαση στα ακουστικά της μετάβασης προς ένα άλλο τραγούδι — κλασική μίξη ή AutoMix. Ο αέρας δεν αλλάζει.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.16.3.zip" sparkle:edSignature="N8nkzccf3Lw31QiiOlAR3CU9MqeEcnwA2hx245VIwwRj634gXyd+KcB2gx4QPX7tMlD0WxSMhwmebeLaLy/wCw==" length="7315071" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.16.1</title>
       <pubDate>Sat, 31 Oct 2026 15:13:25 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
