@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.16.1</title>
+      <pubDate>Sat, 31 Oct 2026 15:13:25 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Έξυπνο DJing</b> (Ρυθμίσεις → Ήχος → Αλλαγή τραγουδιών): η μίξη προσαρμόζεται σε κάθε ζευγάρι τραγουδιών — σβήσιμο, απότομο τέλος, μαλακή εισαγωγή, μίξη στον ρυθμό. Προεπιλογή: κλασική μίξη.</li><li>Διόρθωση: μετά από μεγάλη παύση ή διάστημα εκτός αέρα η ουρά ξαναφορτώνεται από το log — δεν μένουν jingles περασμένων ωρών.</li><li>Διόρθωση: κανένα κλείσιμο της εφαρμογής μετά από αφύπνιση του Mac.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.16.1.zip" sparkle:edSignature="kHjlTUcpy7vbc5QHFuooBjQaFWQWWZ9HnH4QRE5qt5HgaRVTkXNj1l6A+zjITYy++rQ5JpH6/8i57xdTrhMOCg==" length="7250671" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.15.0</title>
       <pubDate>Fri, 30 Oct 2026 22:26:52 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
