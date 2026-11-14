@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.18.2</title>
+      <pubDate>Sat, 14 Nov 2026 07:36:39 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.18.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Δωρεάν εκφώνηση σποτ: φωνή του Mac ή τοπικό μοντέλο (εγκατάσταση με ένα κουμπί)</li><li>Εκφώνηση με AI και σποτ από email</li><li>Πρόγραμμα διαφημίσεων ημέρας σε PDF</li><li>Αρχεία XML για το site και ανέβασμα FTP</li><li>Κανόνες ανά τραγούδι και καμπάνια, playlists, συνδεδεμένοι καλλιτέχνες</li><li>Επιβεβαίωση πριν βγει ο σταθμός εκτός αέρα· διόρθωση επανεκκινήσεων μετά από ύπνο</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.18.2.zip" sparkle:edSignature="3wB51KF895RAjtDuSddFBdIiHna3AyCnfBwiYIdbP+0e1GC69SeiFozlACFy+re4yeIby//IuOmZ7AJVcK2pAQ==" length="8008342" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.18.1</title>
       <pubDate>Sat, 14 Nov 2026 06:39:27 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
