@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.18.1</title>
+      <pubDate>Sat, 14 Nov 2026 06:39:27 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Εξυπνότερος αυτόματος πιλότος: δίκαιη εναλλαγή, λιγότερες επαναλήψεις καλλιτεχνών, καλύτερη ροή</li><li>AutoMix που σέβεται την εισαγωγή και μπαίνει στο κλείσιμο του τραγουδιού</li><li>Εκφώνηση σποτ με AI και σποτ από email</li><li>Playlists με πρόγραμμα, κανόνες ανά τραγούδι, συνδεδεμένοι καλλιτέχνες</li><li>RDS: μηνύματα με πρόγραμμα, έκτακτο μήνυμα</li><li>Μεταφορά από άλλο πρόγραμμα αυτοματισμού</li><li>Ο φύλακας δεν ξεγελιέται πια από τον ύπνο του Mac</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.18.1.zip" sparkle:edSignature="aC/jO3cSZxsBqs5+LN8Sj7gaLiJZqSRXj1Umj0M3PoO/JLWnLYdg0by93tPZLx+YU244u9/SpDtNzRR1NcKIDQ==" length="7902007" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.16.4</title>
       <pubDate>Sat, 31 Oct 2026 18:18:15 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
