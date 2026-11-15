@@ -5,6 +5,15 @@
     <link>https://github.com/xristostsilis/aither-updates</link>
     <language>el</language>
     <item>
+      <title>Aither 0.19.0</title>
+      <pubDate>Sun, 15 Nov 2026 10:25:26 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Voice tracking: ηχογράφηση εκφώνησης σε θέση του προγράμματος</li><li>Χρήστες με κωδικούς (διαχειριστής / παραγωγός) και κλείδωμα</li><li>Αναμετάδοση από την είσοδο της κάρτας ήχου (line-in)</li><li>Κανόνες διαλειμμάτων στον αέρα και «Παίξε τα σποτ τώρα» στη ζωντανή εκπομπή</li><li>Σβήσιμο τέλους ανά τραγούδι· προστασία διπλού πατήματος στα instant jingles</li><li>Ηχογράφηση εκπομπών από το live με αυτόματη κοπή</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/aither-updates/main/releases/Aither-0.19.0.zip" sparkle:edSignature="W/s+TS3Zy5YPHqAHIzUPOzAqNT13bBeOtPyKU5jyHZyEsfbfT+fUjqXJLdfTSmLj1IlWdY7zFOirfIAkLeBEBw==" length="8201799" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Aither 0.18.2</title>
       <pubDate>Sat, 14 Nov 2026 07:36:39 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
